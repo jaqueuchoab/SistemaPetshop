@@ -1,0 +1,1 @@
+Projeto desenvolvido em equipe durante a disciplina de Linguagem para Programação I, consiste em um Sistema de Petshop que permite cadastros de pets e donos, assim como também, alterações de cadastro, exclusão e leitura de dados. Para armazenamento de dados utilizou-se Arquivos de texto e funções para manipulação de dados.
